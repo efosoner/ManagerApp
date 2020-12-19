@@ -1,0 +1,2 @@
+# ManagerApp
+Android class project
