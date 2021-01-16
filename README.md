@@ -11,25 +11,26 @@
 * [x] dynamic search bar
 * [x] toasts for every action done
 * [x] home screen widget with notes
+* [x] saving in shared preferences
 * [ ] dynamic update for widget
 2. Reminder Activity:
-* [ ] all reminders list
-* [ ] fab for creating new reminder
-* [ ] editing reminder 
-* [ ] deleting reminder
-* [ ] saving as .txt, .dat or any other file (class requirements)
-* [ ] dynamic search bar
-* [ ] toasts for every action done
-* [ ] displaying reminder 
+* [x] all reminders list
+* [x] fab for creating new reminder
+* [x] editing reminder 
+* [x] deleting reminder
+* [x] saving in shared preferences
+* [x] dynamic search bar
+* [x] toasts for every action done
+* [x] displaying reminder 
 3. Friend list / Contacts Activity
-* [ ] all contacts list
-* [ ] fab for creating new contact
-* [ ] editing contact
-* [ ] deleting contact
-* [ ] database instead of shared preferences (class requirements)
-* [ ] dynamic search bar
-* [ ] toast for every action done
-* [ ] avatars for chosen gender
+* [x] all contacts list
+* [x] fab for creating new contact
+* [x] editing contact
+* [x] deleting contact
+* [x] saving in shared preferences
+* [x] dynamic search bar
+* [x] toast for every action done
+* [x] avatars for chosen gender
 4. Media center
 * [ ] activity for taking pictures
 * [ ] saving or deleting picture
